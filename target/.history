@@ -37,3 +37,9 @@ pattern.indices
 pattern.indices;
 pattern.indices();
 runMain BMSearch
+runMain PartialSumDFS
+console
+runMain PartialSumDFS
+console
+runMain PartialSumBitOp
+console

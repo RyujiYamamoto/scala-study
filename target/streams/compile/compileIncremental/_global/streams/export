@@ -1,1 +1,1 @@
-scalac -bootclasspath C:\Users\yamam\.sbt\boot\scala-2.12.10\lib\scala-library.jar -classpath C:\Users\yamam\workspace\scala-study\target\scala-2.12\classes C:\Users\yamam\workspace\scala-study\BMSearch.scala
+scalac -bootclasspath C:\Users\yamam\.sbt\boot\scala-2.12.10\lib\scala-library.jar -classpath C:\Users\yamam\workspace\scala-study\target\scala-2.12\classes C:\Users\yamam\workspace\scala-study\PartialSumBitOp.scala
