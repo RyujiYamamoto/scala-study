@@ -1,0 +1,39 @@
+run
+exit
+c
+run
+0.1 * 0.1
+0.1 * 0.1   
+0.1 * 0.1   ;
+0.1 * 0.1;
+0.1 * 0.1
+0.1 * 0.1;
+runMain Factorial
+]quit
+:quit
+exit
+runMain Factorization
+runMain PrintFactorization
+run
+runMain Factorization
+runMain PrintFactorization
+quit
+:exit
+runMain PrintFactorization
+sbt
+Euclid.greatestCommonDivisor(36,24)
+Euclid.greatestCommonDivisor(36,24);
+runMain SimpleSearch
+scala.io.Codec.default.charSet
+runMain SimpleSearch
+runMain RegexSearch
+"ascsfasldkfjaweoijfasdfm,as"
+val str = "sdfjalsfjaslfja;slkfjasfga"
+runMain SimpleSearch
+runMain BMSearch
+chcp 65001
+runMain BMSearch
+pattern.indices
+pattern.indices;
+pattern.indices();
+runMain BMSearch

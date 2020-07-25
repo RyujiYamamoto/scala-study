@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\yamam\workspace\scala-study\BMSearch.scala:18:27: value textPart is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m      println("textPart:" textPart)[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
